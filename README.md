@@ -19,3 +19,11 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0069 | Sqrt(x) | Easy | [Python](./Easy/0069_Sqrt_x/solution.py) | [Watch in Telugu](https://youtu.be/q34WV6ZnYYM) |
 | 0125 | Valid Palindrome | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
 | 3550 | Smallest Index With Digit Sum Equal to Index | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
+
+
+
+## 🎯 Campus & Online Assessment Questions
+
+| # | Problem Title | Languages | Category / Company | Solution Link | Video Explanation |
+|---|---|---|---|---|---|
+| 01 | Maximum Leftover Pastries | Python, C | Bakery / Array / Math | [Solution Path](./Assessment_Questions/Maximum_Leftover_Pastries/) | [Watch Video](https://youtu.be/t_wgL5gDL3Y) |
