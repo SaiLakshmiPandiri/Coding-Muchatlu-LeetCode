@@ -16,6 +16,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](./Medium/0011_Container_With_Most_Water/solution.py) | [Watch in Telugu](https://youtu.be/ngsfhojVJ00) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_Roman_to_Integer/solution.py) | [Watch in Telugu](https://youtu.be/T5U0JGTqMEo) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./Easy/0020_Valid_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/Qm5-YyS9h6M) |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Python](./Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String/solution.py) | [Watch in Telugu](https://youtu.be/fhQN_9lLjTs) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./Medium/0050_Pow_x_n/solution.py) | [Watch in Telugu](https://youtube.com/shorts/1GxJjR0ZD94) |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](./Easy/0069_Sqrt_x/solution.py) | [Watch in Telugu](https://youtu.be/q34WV6ZnYYM) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
