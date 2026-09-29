@@ -18,7 +18,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./Easy/0020_Valid_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/Qm5-YyS9h6M) |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](./Easy/0069_Sqrt_x/solution.py) | [Watch in Telugu](https://youtu.be/q34WV6ZnYYM) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
-| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtu.be/YOUR_VIDEO_LINK) |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
 
 
