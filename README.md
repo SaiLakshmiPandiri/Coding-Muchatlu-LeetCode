@@ -22,6 +22,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Python](./Easy/0083_Remove_Duplicates_from_Sorted_List/solution.py) | [Watch in Telugu](https://youtu.be/jlAI5sMIX6Q) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](./Easy/1614_Maximum_Nesting_Depth_of_the_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/gvA1jIhuakA) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
 
 
