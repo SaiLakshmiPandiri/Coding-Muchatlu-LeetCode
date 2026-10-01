@@ -17,7 +17,7 @@ if dict[i] > len(nums) // 2:
 return i
 return 0
 
-Example test run:
+#Example test run:
 if name == "main":
 sol = Solution()
 print(sol.majorityElement([3, 2, 3]))              # Output: 3
