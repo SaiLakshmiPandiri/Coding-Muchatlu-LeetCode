@@ -19,6 +19,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Python](./Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String/solution.py) | [Watch in Telugu](https://youtu.be/fhQN_9lLjTs) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./Medium/0050_Pow_x_n/solution.py) | [Watch in Telugu](https://youtube.com/shorts/1GxJjR0ZD94) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./Easy/0058_Length_of_Last_Word/solution.py) | [Watch in Telugu](https://youtu.be/dNsmhlHM_7w) |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_Plus_One/solution.py) | [Watch in Telugu](https://youtu.be/653wtBKrdfc) |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Python](./Easy/0069_Sqrt_x/solution.py) | [Watch in Telugu](https://youtu.be/q34WV6ZnYYM) |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Python](./Easy/0083_Remove_Duplicates_from_Sorted_List/solution.py) | [Watch in Telugu](https://youtu.be/jlAI5sMIX6Q) |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
