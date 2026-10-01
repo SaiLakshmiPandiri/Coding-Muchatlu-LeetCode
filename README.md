@@ -17,6 +17,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_Roman_to_Integer/solution.py) | [Watch in Telugu](https://youtu.be/T5U0JGTqMEo) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./Easy/0020_Valid_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/Qm5-YyS9h6M) |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Python](./Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String/solution.py) | [Watch in Telugu](https://youtu.be/fhQN_9lLjTs) |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Python](./Easy/0035_Search_Insert_Position/solution.py) | [Watch in Telugu](https://youtu.be/q4qytFt3kP4) |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./Medium/0050_Pow_x_n/solution.py) | [Watch in Telugu](https://youtube.com/shorts/1GxJjR0ZD94) |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Python](./Easy/0058_Length_of_Last_Word/solution.py) | [Watch in Telugu](https://youtu.be/dNsmhlHM_7w) |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Python](./Easy/0066_Plus_One/solution.py) | [Watch in Telugu](https://youtu.be/653wtBKrdfc) |
