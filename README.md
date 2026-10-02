@@ -12,8 +12,10 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Python](./Medium/0005_Longest_Palindromic_Substring/solution.py) | [Watch in Telugu](https://youtu.be/wboieG5pX54) |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Python](./Medium/0006_Zigzag_Conversion/solution.py) | [Watch in Telugu](https://youtu.be/si-pn9oV8Jc) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Python](./Medium/0007_Reverse_Integer/solution.py) | [Watch in Telugu](https://youtu.be/kEvCRRgUrqk) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Python](./Medium/0008_String_to_Integer_atoi/solution.py) | [Watch in Telugu](https://youtu.be/EP5yz2jBZW0) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](./Easy/0009_Palindrome_Number/solution.py) | [Watch in Telugu](https://youtu.be/BEtwm0vMkeQ) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](./Medium/0011_Container_With_Most_Water/solution.py) | [Watch in Telugu](https://youtu.be/ngsfhojVJ00) |
+| 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](./Medium/0012_Integer_to_Roman/solution.py) | [Watch in Telugu](https://share.gemini.google/rIhItXxr4P5z) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Python](./Easy/0013_Roman_to_Integer/solution.py) | [Watch in Telugu](https://youtu.be/T5U0JGTqMEo) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./Easy/0020_Valid_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/Qm5-YyS9h6M) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](./Easy/0026_Remove_Duplicates_from_Sorted_Array/solution.py) | [Watch in Telugu](https://youtu.be/9fc22zeZNR4) |
