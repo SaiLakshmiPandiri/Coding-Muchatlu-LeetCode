@@ -29,7 +29,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Python](./Easy/0125_Valid_Palindrome/solution.py) | [Watch in Telugu](https://youtu.be/TSLr5pzlhZE) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Python](./Easy/0169_Majority_Element/solution.py) | [Watch in Telugu](https://youtu.be/EEKirc1I0Sg) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Easy/0206_Reverse_Linked_List/solution.py) | [Watch in Telugu](https://youtu.be/TXMG-DX8Hz4) |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Easy/0217_Contains_Duplicate/solution.py) | [Watch on YouTube](https://sailakshmi) |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Easy/0217_Contains_Duplicate/solution.py) | [Watch on Telugu](https://sailakshmi) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [Python](./Medium/0856_Score_of_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/c2MuWnPuNq4) |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [Python](./Medium/0921_Minimum_Add_to_Make_Parentheses_Valid/solution.py) | [Watch in Telugu](https://youtu.be/NohHgkDwu68) |
