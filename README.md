@@ -31,6 +31,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [Python](./Easy/0202_Happy_Number/solution.py) | [Watch in Telugu](https://youtu.be/mQyWMQP_Zfg) |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Easy/0206_Reverse_Linked_List/solution.py) | [Watch in Telugu](https://youtu.be/TXMG-DX8Hz4) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Easy/0217_Contains_Duplicate/solution.py) | [Watch in Telugu](https://sailakshmi) |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./Easy/0242_Valid_Anagram/solution.py) | [Watch in Telugu](https://youtu.be/tCAAmYsdnFA) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Python](./Easy/0349_Intersection_of_Two_Arrays/solution.py) | [Watch in Telugu](https://youtu.be/3oUc7L9_ET0) |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Python](./Easy/0350_Intersection_of_Two_Arrays_II/solution.py) | [Watch in Telugu](https://youtu.be/UFyNAzAEJMc) |
