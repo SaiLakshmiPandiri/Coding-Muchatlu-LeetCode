@@ -35,14 +35,17 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Python](./Easy/0206_Reverse_Linked_List/solution.py) | [Watch in Telugu](https://youtu.be/TXMG-DX8Hz4) |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Python](./Easy/0217_Contains_Duplicate/solution.py) | [Watch in Telugu](https://sailakshmi) |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Python](./Easy/0219_Contains_Duplicate_II/solution.py) | [Watch in Telugu](https://youtu.be/0V2zN3MB9lA) |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Python](./Easy/0232_Implement_Queue_using_Stacks/solution.py) | [Watch in Telugu](https://youtu.be/NWtS-ClvsdI) |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Python](./Easy/0242_Valid_Anagram/solution.py) | [Watch in Telugu](https://youtu.be/tCAAmYsdnFA) |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Python](./Easy/0349_Intersection_of_Two_Arrays/solution.py) | [Watch in Telugu](https://youtu.be/3oUc7L9_ET0) |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Python](./Easy/0350_Intersection_of_Two_Arrays_II/solution.py) | [Watch in Telugu](https://youtu.be/UFyNAzAEJMc) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [Python](./Medium/0856_Score_of_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/c2MuWnPuNq4) |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [Python](./Medium/0921_Minimum_Add_to_Make_Parentheses_Valid/solution.py) | [Watch in Telugu](https://youtu.be/NohHgkDwu68) |
+| 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./Medium/0946_Validate_Stack_Sequences/solution.py) | [Watch in Telugu](https://youtu.be/XjlWP9waE-M) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | [Python](./Medium/1111_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings/solution.py) | [Watch in Telugu](https://youtu.be/wObziKauQFQ) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](./Easy/1614_Maximum_Nesting_Depth_of_the_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/gvA1jIhuakA) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [Python](./Easy/2089_Find_Target_Indices_After_Sorting_Array/solution.py) | [Watch in Telugu](https://youtu.be/CPZc34rYP0s) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
 
 
