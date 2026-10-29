@@ -47,7 +47,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [Python](./Easy/1614_Maximum_Nesting_Depth_of_the_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/gvA1jIhuakA) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [Python](./Easy/2089_Find_Target_Indices_After_Sorting_Array/solution.py) | [Watch in Telugu](https://youtu.be/CPZc34rYP0s) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
-
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [Python](./Easy/3731_Find_Missing_Elements/solution.py) | [Watch in Telugu](https://youtu.be/gxcfR4S0xso) |
 
 ## 🎯 Campus & Online Assessment Questions
 
