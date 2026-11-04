@@ -40,6 +40,8 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Python](./Easy/0342_Power_of_Four/solution.py) | [Watch in Telugu](https://youtube.com/shorts/-UfhBXMLsGo) |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Python](./Easy/0349_Intersection_of_Two_Arrays/solution.py) | [Watch in Telugu](https://youtu.be/3oUc7L9_ET0) |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [Python](./Easy/0350_Intersection_of_Two_Arrays_II/solution.py) | [Watch in Telugu](https://youtu.be/UFyNAzAEJMc) |
+| 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | [Python](./Medium/0453_Minimum_Moves_to_Equal_Array_Elements/solution.py) | [Watch in Telugu](https://youtu.be/4Fck9Gwh2ow) |
+| 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [Python](./Medium/0462_Minimum_Moves_to_Equal_Array_Elements_II/solution.py) | [Watch in Telugu](https://youtu.be/QHu9coS8G1g) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [Python](./Medium/0856_Score_of_Parentheses/solution.py) | [Watch in Telugu](https://youtu.be/c2MuWnPuNq4) |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [Python](./Medium/0921_Minimum_Add_to_Make_Parentheses_Valid/solution.py) | [Watch in Telugu](https://youtu.be/NohHgkDwu68) |
 | 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./Medium/0946_Validate_Stack_Sequences/solution.py) | [Watch in Telugu](https://youtu.be/XjlWP9waE-M) |
@@ -48,6 +50,7 @@ Daily LeetCode & DSA solutions in Python with Telugu video explanations by Codin
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [Python](./Easy/2089_Find_Target_Indices_After_Sorting_Array/solution.py) | [Watch in Telugu](https://youtu.be/CPZc34rYP0s) |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [Python](./Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/solution.py) | [Watch in Telugu](https://youtu.be/-FnySlpe5ZI) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | [Python](./Easy/3731_Find_Missing_Elements/solution.py) | [Watch in Telugu](https://youtu.be/gxcfR4S0xso) |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | [Python](./Easy/3736_Minimum_Moves_to_Equal_Array_Elements_III/solution.py) | [Watch in Telugu](https://youtu.be/oYRAN_e-9Mo) |
 
 ## 🎯 Campus & Online Assessment Questions
 
